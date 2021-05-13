@@ -1,0 +1,33 @@
+header{
+    background-color: grey;
+    padding: 20px;
+}
+nav{
+    background-color:rgb(85, 82, 82);
+    padding: 7px;
+    
+
+    }
+    contenedor{
+        display: flex;
+        
+    }
+    section{
+        float: left;
+        width: 70%;
+        background-color:rgb(230, 217, 120);
+        height: 505px;
+    }
+    aside{
+        float: right;
+        width: 30%;
+        background-color: rgb(245, 248, 248);
+    }
+       
+    footer{     
+        background-color: rgb(224, 245, 40);          
+    }
+    
+   
+    
+ 
